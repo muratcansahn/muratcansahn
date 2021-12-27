@@ -3,7 +3,6 @@
 
 Skills: HTML,CSS(SASS),Bootstrap,React JS,ReactStrap,Material UI,NEXT JS,Git,GitHub,AWS,Firebase
 
-- 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning NEXT JS  
 - 📫 How to reach me: muratcansahin10@gmail.com  
 
