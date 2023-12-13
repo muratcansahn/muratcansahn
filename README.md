@@ -1,7 +1,7 @@
 ### Hi there 👋, My name is Murat 
 #### I am frontend developer
 
-Skills: HTML,CSS(SASS),Bootstrap,JS,ReactStrap,Material UI,NEXT JS,Git,GitHub,AWS,Firebase
+Skills: HTML,CSS(SASS),Bootstrap,JavaScript,ReactStrap,Material UI,NEXT JS,Git,GitHub
 
 - 🌱 I’m currently learning NEXT JS  
 - 📫 How to reach me: muratcansahin10@gmail.com  
