@@ -4,7 +4,6 @@
 ---
 
 🚀 Passionate about building interactive UIs and clean code.  
-🌱 Currently learning **Next.js**  
 📫 Reach me at: **muratcansahin10@gmail.com**
 
 ---
