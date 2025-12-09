@@ -4,7 +4,7 @@
 ---
 
 🚀 Passionate about building interactive UIs and clean code.  
-📫 Reach me at: **muratcansahin10@gmail.com**
+📫 Reach me at: **muratcansahindev@gmail.com**
 
 ---
 
@@ -72,10 +72,3 @@ Git · GitHub · AWS (Amplify) · Firebase · Bash · Figma
 
 ---
 
-### 📊 GitHub Stats
-
-![Profile Views](https://gpvc.arturio.dev/muratcansahn)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muratcansahn&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Murat's GitHub stats](https://github-readme-stats.vercel.app/api?username=muratcansahn&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
